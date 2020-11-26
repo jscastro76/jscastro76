@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Threebox](https://github.com/jscastro76/threebox)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jscastro76&show_icons=true&hide_border=true&custom_title=Jscastro76%27s%20Stats" alt="jscastro76" />
+
 <!--
 **jscastro76/jscastro76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
