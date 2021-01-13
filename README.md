@@ -4,7 +4,7 @@ I'm a +20 year-experienced digital industry professional, the last 14 years work
 Senior Program Manager - Sport Business Innovation Lead - Speaker
 
 - <img align="center" height="20" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=1614211200&v=beta&t=0l4wAzyAzdAG-QziWNGUKlbTejELd_bbJFxKFo-XICs" alt="Microsoft" /> [Profile](https://www.linkedin.com/in/jscastro/)
-- 🔭 I’m currently working on [Threebox](https://github.com/jscastro76/threebox)
+- 🔭 I’m currently working on [Threebox](https://github.com/jscastro76/threebox)   
 ![jscastro76's github stats](https://github-readme-stats.vercel.app/api?username=jscastro76&include_all_commits=true)
 
 <!--
