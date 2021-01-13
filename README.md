@@ -5,7 +5,7 @@ Senior Program Manager - Sport Business Innovation Lead - Speaker
 
 - <img align="center" height="20" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=1614211200&v=beta&t=0l4wAzyAzdAG-QziWNGUKlbTejELd_bbJFxKFo-XICs" alt="Microsoft" /> [Profile](https://www.linkedin.com/in/jscastro/)
 - 🔭 I’m currently working on [Threebox](https://github.com/jscastro76/threebox)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jscastro76&show_icons=true&hide_border=true&custom_title=Jscastro76%27s%20Stats" alt="jscastro76" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jscastro76&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Jscastro76%27s%20Stats" alt="jscastro76" />
 
 <!--
 **jscastro76/jscastro76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
