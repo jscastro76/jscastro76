@@ -7,7 +7,8 @@ Senior Program Manager - Sport Business Innovation Lead - Speaker
 - 🔭 I’m currently working on [Threebox](https://github.com/jscastro76/threebox)   
 <br/>  
 
-![jscastro76's github stats](https://github-readme-stats.vercel.app/api?username=jscastro76&include_all_commits=true)
+[![jscastro76's github stats](https://github-readme-stats.vercel.app/api?username=jscastro76&show_icons=true)](https://github.com/jscastro76)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jscastro76d&langs_count=6&layout=compact)](https://github.com/jscastro76)
 
 <!--
 **jscastro76/jscastro76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
