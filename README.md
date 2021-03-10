@@ -3,7 +3,7 @@
 I'm a +20 year-experienced digital industry professional, the last 14 years working at <img align="center" height="20" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1614211200&v=beta&t=BEuh2CCCWN6Dsg_dmThUMtYaLRwElYupbU46qd7VqLQ" alt="Microsoft" /> Microsoft.  
 Senior Program Manager - Sport Business Innovation Lead - Speaker
 
-- <img align="center" height="20" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=1614211200&v=beta&t=0l4wAzyAzdAG-QziWNGUKlbTejELd_bbJFxKFo-XICs" alt="Microsoft" /> [Profile](https://www.linkedin.com/in/jscastro/)
+- <img align="center" height="20" src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BacaZ9JP7SjywNUPEmdwZfA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.homepage" alt="LinkedIn" /> [Profile](https://www.linkedin.com/in/jscastro/)
 - 🔭 I’m currently working on [Threebox](https://github.com/jscastro76/threebox)   
 <br/>  
 
