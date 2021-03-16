@@ -7,8 +7,6 @@ Senior Program Manager - Sport Business Innovation Lead - Speaker
 - 🔭 I’m currently working on [Threebox](https://github.com/jscastro76/threebox)   
 <br/>  
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="jscastro"><a class="LI-simple-link" href='https://es.linkedin.com/in/jscastro?trk=profile-badge'>Jesus Serrano</a></div>
-
 [![jscastro76's github stats](https://github-readme-stats.vercel.app/api?username=jscastro76&show_icons=true&include_all_commits=true)](https://github.com/jscastro76)  
 
 <!--
