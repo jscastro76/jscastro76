@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm a +25 year-experienced digital industry professional, the last 15 years working at <img align="center" height="20" src="https://avatars.githubusercontent.com/b/1578?s=120&v=4" alt="Microsoft" /> Microsoft.  
-Principal Program Manager - Sportainment Innovation Lead - Speaker
+I'm a +25 year-experienced digital industry professional, the last 17 years working at <img align="center" height="20" src="https://avatars.githubusercontent.com/b/1578?s=120&v=4" alt="Microsoft" /> Microsoft.  
+<img align="center" height="20" src="https://avatars.githubusercontent.com/b/1578?s=120&v=4" alt="Microsoft" /> Principal Program Manager - Sportainment Innovation Lead - Speaker <br/>
+<img align="center" height="20" src="https://www.ox.ac.uk/sites/default/themes/custom/oxweb/images/oxweb-logo.gif" alt="University of Oxford" /> AI Tutor at University of Oxford <br/>
+<img align="center" height="20" src="https://static.licdn.com/aero-v1/sc/h/6nmhmdclknlo240z6klflowim" alt="LinkedIn Top boive" /> [LinkedIn Top Voice Profile](https://www.linkedin.com/in/jscastro/)<br/>
 
-- <img align="center" height="20" src="https://www.pngfind.com/pngs/m/102-1026341_meiller-linkedin-profile-linkedin-logo-png-2017-transparent.png" alt="LinkedIn" /> [Profile](https://www.linkedin.com/in/jscastro/)
-- 🔭 I’m currently working on **Bald NinjAI** and [Threebox](https://github.com/jscastro76/threebox)   
+- 🔭 I’m currently working on **Bald NinjAI** video game and [Threebox](https://github.com/jscastro76/threebox)   
 <br/>  
 
 [![jscastro76's github stats](https://github-readme-stats.vercel.app/api?username=jscastro76&show_icons=true&include_all_commits=true)](https://github.com/jscastro76)  
