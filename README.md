@@ -2,8 +2,8 @@
 
 I'm a +25 year-experienced digital industry professional, the last 17 years working at <img align="center" height="20" src="https://avatars.githubusercontent.com/b/1578?s=120&v=4" alt="Microsoft" /> Microsoft.  
 <img align="center" height="20" src="https://avatars.githubusercontent.com/b/1578?s=120&v=4" alt="Microsoft" /> Principal Program Manager - Sportainment Innovation Lead - Speaker <br/>
-<img align="center" height="20" src="https://www.ox.ac.uk/sites/default/themes/custom/oxweb/images/oxweb-logo.gif" alt="University of Oxford" /> AI Tutor at University of Oxford <br/>
-<img align="center" height="20" src="https://static.licdn.com/aero-v1/sc/h/6nmhmdclknlo240z6klflowim" alt="LinkedIn Top boive" /> [LinkedIn Top Voice Profile](https://www.linkedin.com/in/jscastro/)<br/>
+<img align="center" height="20" src="https://www.ox.ac.uk/sites/default/themes/custom/oxweb/images/oxweb-logo.gif" alt="University of Oxford" /> [Artificial Intelligence Tutor at University of Oxford](https://www.conted.ox.ac.uk/tutors/21924) <br/>
+<img align="center" height="20" src="https://static.licdn.com/aero-v1/sc/h/6nmhmdclknlo240z6klflowim" alt="LinkedIn Top boive" /> [LinkedIn Top Voice Profile](https://www.linkedin.com/in/jscastro/)<br/>  
 
 - 🔭 I’m currently working on **Bald NinjAI** video game and [Threebox](https://github.com/jscastro76/threebox)   
 <br/>  
