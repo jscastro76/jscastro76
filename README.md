@@ -4,7 +4,7 @@ I'm a +20 year-experienced digital industry professional, the last 15 years work
 Principal Program Manager - Sportainment Innovation Lead - Speaker
 
 - <img align="center" height="20" src="https://www.pngfind.com/pngs/m/102-1026341_meiller-linkedin-profile-linkedin-logo-png-2017-transparent.png" alt="LinkedIn" /> [Profile](https://www.linkedin.com/in/jscastro/)
-- 🔭 I’m currently working on [Threebox](https://github.com/jscastro76/threebox)   
+- 🔭 I’m currently working on **Bald NinjAI** and [Threebox](https://github.com/jscastro76/threebox)   
 <br/>  
 
 [![jscastro76's github stats](https://github-readme-stats.vercel.app/api?username=jscastro76&show_icons=true&include_all_commits=true)](https://github.com/jscastro76)  
