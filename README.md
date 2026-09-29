@@ -5,7 +5,7 @@ I'm a +30 year-experienced digital industry professional, the last 20 years work
 <img align="center" height="20" src="https://www.ox.ac.uk/sites/default/themes/custom/oxweb/images/oxweb-logo.gif" alt="University of Oxford" /> [Artificial Intelligence Tutor at University of Oxford](https://www.conted.ox.ac.uk/tutors/21924) <br/>
 <img align="center" height="20" src="https://static.licdn.com/aero-v1/sc/h/6nmhmdclknlo240z6klflowim" alt="LinkedIn Top boive" /> [LinkedIn Top Voice Profile](https://www.linkedin.com/in/jscastro/)<br/>  
 
-- 🔭 I’m currently working on **Bald NinjAI** video game and [Threebox](https://github.com/jscastro76/threebox)   
+- 🔭 I’m currently working on [**Bald NinjAI**](https://www.baldninjai.com) video game and [Threebox](https://github.com/jscastro76/threebox)   
 <br/>  
 
 [![jscastro76's github stats](https://github-readme-stats.vercel.app/api?username=jscastro76&show_icons=true&include_all_commits=true)](https://github.com/jscastro76)  
